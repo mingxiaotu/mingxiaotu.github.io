@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University OF Sydney, School of Computer Science"
-date: 2020-Current
+date: 2020
 location: "Sydney Australia"
 ---
 
