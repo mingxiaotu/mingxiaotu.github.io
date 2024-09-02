@@ -3,7 +3,6 @@ title: "Exploring the Performance of Geometry-Based Markerless Registration in a
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-24
 venue: '2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/abstract/document/10341197/)'
